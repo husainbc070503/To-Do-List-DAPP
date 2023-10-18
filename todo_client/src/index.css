@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('./bg-todo-transformed.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.TextField.input::placeholder {
+  color: #fff;
+}
+
+.Button.btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
