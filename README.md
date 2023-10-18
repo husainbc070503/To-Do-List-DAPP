@@ -1,4 +1,4 @@
-Commands to run
+**Commands to run**
 1. npm install --save-dev hardhat
 2. npx hardhat
 3. Install what they say to install in npx hardhat command
